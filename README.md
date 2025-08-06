@@ -2,4 +2,4 @@
 
 Collection of importers that can be used to change things in the game easily. 
 
-The end result is an archive folder ready to be zipped and uploaded.
+The end result is an archive folder ready to be zipped, installed and uploaded.
